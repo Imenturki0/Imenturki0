@@ -1,56 +1,72 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Imen Turki
 
-Welcome to my GitHub profile! I'm passionate about **software development, web & mobile apps, and AI projects**.  
+**Mobile & Web Developer | AI/ML Developer**
+
+I build **cross-platform mobile apps, web projects, and AI/ML models**. I focus on delivering functional applications and learning modern technologies to create **real-world solutions**.
 
 ---
 
-## 🔭 I’m currently working on
-- Personal projects to improve my **Python, AI, and web development skills**
-- Open-source contributions in **GitHub repositories**
-- Learning **new technologies** in AI and modern web frameworks
+## 🔭 I’m Currently Working On
+- Personal Flutter & Web projects  
+- Open-source contributions on GitHub  
+- Learning **advanced ML techniques** and modern web frameworks
 
 ---
 
-## 🌱 I’m currently learning
-- **Advanced Python programming**
-- **Machine Learning & AI**
-- **React & Next.js** for web development
-- **Flutter** for mobile apps
+## 🌱 Skills
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![BLoC](https://img.shields.io/badge/-BLoC-3D4451?style=for-the-badge)
+![Provider](https://img.shields.io/badge/-Provider-3D4451?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
-- **Frameworks:** Django, Flask, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VSCode, Linux, Firebase
-
----
-
-## 📂 My Projects
+## 📂 Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Shkobba Game** | Multiplayer card game using Socket.io | Node.js, JS, HTML, CSS |
+| **Study Group App** | Secure app for creating public/private study groups | Flutter, Firebase |
+| **Food Delivery App** | Online food ordering platform with dynamic menus | Flutter, Firebase |
+| **Turkey Travel Guide** | Responsive web app for tourists | React.js, MySQL, REST API |
 | **Portfolio Website** | Personal portfolio to showcase projects | React, Tailwind CSS |
-| **AI NPC Simulation** | AI-powered game NPC simulation | Python, AI, ML |
+| **SynapseMNIST3D** | 3D biomedical image classification | Python, TensorFlow/Keras |
+| **Handwritten Recognition (MNIST + A–Z)** | CNN model achieving 97% test accuracy | Python, TensorFlow/Keras |
+| **ASL Recognition** | Sign language letter recognition (29 classes, 98% accuracy) | Python, TensorFlow/Keras |
 
-> Check my repositories for more projects: [GitHub Repos](https://github.com/<your-username>?tab=repositories)
+> Explore more: [GitHub Repos](https://github.com/Imenturki0?tab=repositories)
+
+---
+
+## 📫 Connect with Me
+- **Email:** [imenturki99@gmail.com](mailto:imenturki99@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/imen-turki0](https://www.linkedin.com/in/imen-turki0/)  
+- **Portfolio:** [imenturki0.github.io/My-Portfolio](https://imenturki0.github.io/My-Portfolio)  
+- **GitHub:** [github.com/Imenturki0](https://github.com/Imenturki0)  
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
+<!-- GitHub activity and contributions -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imenturki0&show_icons=true&hide_title=false&count_private=true&theme=radical)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imenturki0&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with me
-- **Email:** your-email@example.com  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Portfolio:** [your-website-link](https://example.com)
-
----
-
-## ⚡ Fun fact
-I love turning **ideas into real projects**, learning new tech, and contributing to **open-source communities**.
-
+## ⚡ Fun Fact
+I enjoy **building apps, experimenting with AI models**, and contributing to **open-source projects**.  
