@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Imen Turki
+# Hi there ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+, I'm Imen Turki
 
 Welcome to my GitHub profile! I'm passionate about **software development, web & mobile apps, and AI projects**.  
 
