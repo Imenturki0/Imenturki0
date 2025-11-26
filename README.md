@@ -66,12 +66,11 @@ I build **cross-platform mobile apps, web projects, and AI/ML models**. I focus 
 
 ---
 
-## 📈 GitHub Stats
-<!-- GitHub activity and contributions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imenturki0&show_icons=true&hide_title=false&count_private=true&theme=radical)
-
-<!-- Top languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imenturki0&layout=compact&theme=radical)
+## 📊 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-one-khaki.vercel.app/api?username=Imenturki0&show_icons=true&theme=light&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Imenturki0&layout=compact&theme=light&hide_border=true" width="48%" />
+</p>
 
 ---
 
