@@ -58,10 +58,11 @@ I build **cross-platform mobile apps, web projects, and AI/ML models**. I focus 
 ---
 
 ## 📫 Connect with Me
-- **Email:** [imenturki99@gmail.com](mailto:imenturki99@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/imen-turki0](https://www.linkedin.com/in/imen-turki0/)  
-- **Portfolio:** [imenturki0.github.io/My-Portfolio](https://imenturki0.github.io/My-Portfolio)  
-- **GitHub:** [github.com/Imenturki0](https://github.com/Imenturki0)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imenturki99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imen-turki0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://imenturki0.github.io/My-Portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imenturki0)
+
 
 ---
 
